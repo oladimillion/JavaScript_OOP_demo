@@ -1,0 +1,20 @@
+{
+  "name": "javascript_oop",
+  "version": "1.0.0",
+  "description": "demostration of oop in JavaScript using ES6",
+  "main": "lib/vehicle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha test/vehicletest.js"
+  },
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
